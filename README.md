@@ -5,6 +5,7 @@ Profa. Bianca Pedrosa - bpedrosa@ifsp.edu.br <br>
 Prof. Samuel Martins (Samuka) - @hisamuka
 
 **Projeto Interdisciplinar Big Data + ML**
+** Preliminar, ainda não finalizada
 
 Outubro de 2022
 

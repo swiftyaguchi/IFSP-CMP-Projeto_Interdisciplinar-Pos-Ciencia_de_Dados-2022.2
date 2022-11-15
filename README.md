@@ -1,7 +1,7 @@
 # Pós Graduação em Ciência de Dados - 2022.2
 # IFSP Campinas
 
-Profa. Bianca Pedrosa - bpedrosa@ifsp.edu.br
+Profa. Bianca Pedrosa - bpedrosa@ifsp.edu.br <br>
 Prof. Samuel Martins (Samuka) - @hisamuka
 
 **Projeto Interdisciplinar Big Data + ML**
